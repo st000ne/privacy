@@ -1,6 +1,6 @@
 {
-  "short_name": "Privacy",
-  "name": "个人数据泄漏检测",
+  "short_name": "Badbuf",
+  "name": "evil search",
   "icons": [
     {
       "src": "favicon.ico",

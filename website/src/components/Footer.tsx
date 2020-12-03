@@ -31,15 +31,15 @@ function Footer() {
             <Container className={classes.footer} component="footer">
                 <Box>
                     <Typography variant="caption">
-                        技术栈 React + Golang + SQLite，将于 11 月 28 日开源。
+                        技术栈 React + Golang + SQLite
                     </Typography>
                 </Box>
                 <Box mt={2} className={classes.temp}>
                     <Typography display="inline">Developed with</Typography>
                     <FavoriteIcon color="error" fontSize="default" className={classes.link}/>
                     <Typography display="inline">by</Typography>
-                    <Link color="secondary" href="https://github.com/kallydev" target="_blank"
-                          className={classes.link}>KallyDev</Link>
+                    <Link color="secondary" href="https://badbuf.com" target="_blank"
+                          className={classes.link}>St000ne</Link>
                     <Typography display="inline">.</Typography>
                 </Box>
             </Container>

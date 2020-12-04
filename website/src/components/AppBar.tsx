@@ -36,7 +36,7 @@ function AppBar() {
                             <Typography variant="h6" className={classes.title}>
                                 Privacy
                             </Typography>
-                            <Link href="https://github.com/kallydev/privacy" underline="none" target="_blank"
+                            <Link href="https://badbuf.com" underline="none" target="_blank"
                                   component={Button}
                                   color="inherit">GitHub</Link>
                         </Toolbar>
